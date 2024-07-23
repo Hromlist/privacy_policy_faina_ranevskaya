@@ -1,3 +1,5 @@
+<b>Privacy Policy</b>
+
 Developer built the Фаина Раневская: Мудрые цитаты app as an Ad Supported app. This
 app is provided by at no cost and is intended for use as is:
 
