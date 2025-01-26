@@ -1,156 +1,75 @@
 <b>Privacy Policy</b>
 
-Developer built the Фаина Раневская: Мудрые цитаты app as an Ad Supported app. This
-app is provided by at no cost and is intended for use as is:
+This privacy policy applies to the Фаина Раневская: Мудрые цитаты app (hereby referred to as "Application") for mobile devices that was created by Hlist studio (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-This privacy policy is used to inform you regarding policies with the collection, use, and
-disclosure of Personal Information if anyone decided to use this Service.
+<b>Information Collection and Use</b>
 
-<b>1. Overview</b>
+The Application collects information when you download and use it. This information may include information such as
 
-The app uses advertising (and in app payments) to make revenue. The app uses third party
-libraries for advertising which may collect and share personal information with third
-parties.
+• Your device\'s Internet Protocol address (e.g. IP address)
+• The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+• The time spent on the Application
+• The operating system you use on your mobile device
 
-Links to privacy policies of third party service providers used in the app:
+The Application does not gather precise information about the location of your mobile device.
 
-<b>Google Play Services</b>
+
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+
+
+<b>Third Party Access</b>
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+Google Play Services
 
 https://www.google.com/policies/privacy
 
-<b>AdMob</b>
+Firebase Analytics
 
-https://support.google.com/admob/answer/6128543
+https://firebase.google.com/support/privacy
 
-<b>Firebase Analytics</b>
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-https://firebase.google.com/policies/analytics
+• as required by law, such as to comply with a subpoena, or similar legal process;
+• when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+• with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-<b>2. Sharing Your Information</b>
+<b>Opt-Out Rights</b>
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-The developer will share personal information with third parties only in the ways that are
-described in this privacy statement.
+<b>Data Retention Policy</b>
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you\'d like them to delete User Provided Data that you have provided via the Application, please contact them at hliststudio(at)gmail(dot)com and they will respond in a reasonable time.
 
-Your personal information may be disclosed:
-- As required by law, such as to comply with a subpoena, or similar legal process.
-- To any other third party with your prior consent to do so.
+<b>Children</b>
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-<b>3. What information are collected and why</b>
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (hliststudio(at)gmail(dot)com) so that they will be able to take the necessary actions.
 
-<b>3.1 AdMob</b>
+<b>Security</b>
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-AdMob, is Google\'s mobile app advertising platform designed specifically for app
-developers. In order to understand Google\'s use of Data, consult Google\'s partner policy.
-
-<b>Personal Data:</b>
-
-- Online identifiers, including cookie identifiers
-- IP addresses
-- Device identifiers
-- Client identifiers
-- unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
-- Usage Data.
-
-<b>Retention:</b>
-
-Google anonymizes the log data by removing part of the IP address (after 9 months) and
-cookie information (after 18 months)
-
-<b>Online resources:</b>
-
-<b>Privacy Policy</b>
-
-https://www.google.com/policies/technologies/ads
-
-<b>Opt out</b>
-
-https://www.google.com/settings/ads
-
-<b>Service Information</b>
-
-https://privacy.google.com/businesses/adsservices
-
-<b>Partner policy</b>
-
-https://policies.google.com/technologies/partner-sites
-
-<b>Ad technology providers</b>
-
-https://support.google.com/admob/answer/9012903
-
-<b>3.2 Google Play Services</b>
-
-Google Play Services offers APIs and security services to the Android developer ecosystem.
-Google acts as a data controller for any personal data processed in Google Play Services,
-and offers user notices and consents about the use of personal data in the service’s user
-interface in Android.
-
-<b>Collected informations:</b>
-
-- Device information
-- Log information
-- Location information
-- Unique application numbers
-- Local storage
-- Cookies and similar technologies
-
-Google use the collected information to provide, maintain, protect and improve Google\'s
-services, to develop new ones, and to protect Google and the users. Google also use this
-information to offer you tailored content – like giving you more relevant search results
-and ads.
-
-<b>Online resources:</b>
-
-<b>Google Terms of Service</b>
-
-https://policies.google.com/terms
-
-<b>Google Privacy Policy</b>
-
-https://policies.google.com/privacy
-
-<b>4. Security</b>
-
-I am striving to use commercially acceptable means of protecting your Personal
-Information. But remember that no method of transmission over the internet, or method of
-electronic storage is 100% secure and reliable, and I cannot guarantee its absolute
-security.
-
-<b>5. Links to Other Sites</b>
-
-This Service may contain links to other sites. If you click on a third-party link, you
-will be directed to that site. Note that these external sites are not operated by me.
-Therefore, I strongly advise you to review the Privacy Policy of these websites. I have
-no control over and assume no responsibility for the content, privacy policies, or
-practices of any third-party sites or services.
-
-<b>6. Children’s Privacy</b>
-
-These Services do not address anyone under the age of 13. I do not knowingly collect
-personally identifiable information from children under 13. In the case I discover that
-a child under 13 has provided me with personal information, I immediately delete those
-informations. If you are a parent or guardian and you are aware that your child has
-provided personal information, please contact me so that I will be able to do necessary
-actions.
-
-<b>7. Distribution</b>
+<b>Distribution</b>
 
 The only official channel for distribution of this app are:
 
-<b>Google Play Store</b>
+Google Play Store
 
 https://play.google.com
 
-Any other mode of distribution is not official and thus, is not maintained by the developer.
-This privacy policy is effective to distribution made on official channel only.
+Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 
-<b>8. Changes to This Privacy Policy</b>
+<b>Changes</b>
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This policy may be updated from time to time.
+This privacy policy is effective as of 2025-01-17
 
-<b>Contact me</b>
+<b>Your Consent</b>
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to
-contact me.
-
-<b>hliststudio(at)gmail(dot)com</b>
+<b>Contact Us</b>
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hliststudio(at)gmail(dot)com.</string>
